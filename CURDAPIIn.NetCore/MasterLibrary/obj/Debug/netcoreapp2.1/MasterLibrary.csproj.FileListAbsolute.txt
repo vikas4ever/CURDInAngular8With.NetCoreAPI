@@ -1,0 +1,12 @@
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\bin\Debug\netcoreapp2.1\MasterLibrary.deps.json
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\bin\Debug\netcoreapp2.1\MasterLibrary.dll
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\obj\Debug\netcoreapp2.1\MasterLibrary.csprojAssemblyReference.cache
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\obj\Debug\netcoreapp2.1\MasterLibrary.csproj.CoreCompileInputs.cache
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\obj\Debug\netcoreapp2.1\MasterLibrary.AssemblyInfoInputs.cache
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\obj\Debug\netcoreapp2.1\MasterLibrary.AssemblyInfo.cs
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\bin\Debug\netcoreapp2.1\ConnectionLibrary.dll
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\bin\Debug\netcoreapp2.1\MasterLibrary.pdb
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\bin\Debug\netcoreapp2.1\ConnectionLibrary.pdb
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\obj\Debug\netcoreapp2.1\MasterLibrary.csproj.CopyComplete
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\obj\Debug\netcoreapp2.1\MasterLibrary.dll
+F:\.Net Project\CURDAPIIn.NetCore\MasterLibrary\obj\Debug\netcoreapp2.1\MasterLibrary.pdb

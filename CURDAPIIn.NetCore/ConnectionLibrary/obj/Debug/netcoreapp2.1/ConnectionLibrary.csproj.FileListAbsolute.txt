@@ -1,0 +1,9 @@
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\bin\Debug\netcoreapp2.1\ConnectionLibrary.deps.json
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\bin\Debug\netcoreapp2.1\ConnectionLibrary.dll
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\obj\Debug\netcoreapp2.1\ConnectionLibrary.csprojAssemblyReference.cache
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\obj\Debug\netcoreapp2.1\ConnectionLibrary.csproj.CoreCompileInputs.cache
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\obj\Debug\netcoreapp2.1\ConnectionLibrary.AssemblyInfoInputs.cache
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\obj\Debug\netcoreapp2.1\ConnectionLibrary.AssemblyInfo.cs
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\bin\Debug\netcoreapp2.1\ConnectionLibrary.pdb
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\obj\Debug\netcoreapp2.1\ConnectionLibrary.dll
+F:\.Net Project\CURDAPIIn.NetCore\ConnectionLibrary\obj\Debug\netcoreapp2.1\ConnectionLibrary.pdb
