@@ -1,0 +1,1 @@
+# CURDInAngular8With.NetCoreAPI
